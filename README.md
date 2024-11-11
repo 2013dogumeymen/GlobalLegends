@@ -9,6 +9,8 @@
 <h1>Global Legends</h1>
 </div>
 
+Mega Kumbara Kasmayan, Aktif olmayan, kulübe girip çikan 3 uyari sonrasinda atrlir bu kurallar kulüp istikrar için önemlidir
+
 <details>
 <summary>Neden Bu kulübe Katılmalısınız?</summary>
 Cevap: Çünkü bu kulüpte düzen sağlanmaktadır, disiplinli bir kulüptür ve bir internet sitesi vardır.
