@@ -1,8 +1,8 @@
 <DOCTYPE md>
 
   <div style="background-color: #000000; color: white; padding: 15px; text-align: center; font-size: 16px;">
-    <sub>Bu Site Supercell'in veya Supercell'e bağlı bir kuruluşun sitesi değildir<sub>
-    <a href=https://supercell.com/en/" style="color: #ffd700; text-decoration: underline;"><sub>Daha fazla bilgi<sub></a>.
+    Bu Site Supercell'in veya Supercell'e bağlı bir kuruluşun sitesi değildir
+    <a href=https://supercell.com/en/" style="color: #ffd700; text-decoration: underline;">Daha fazla bilgi</a>.
 </div>
 
 
