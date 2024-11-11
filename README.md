@@ -14,5 +14,4 @@
 Cevap: Çünkü bu kulüpte düzen sağlanmaktadır, disiplinli bir kulüptür ve bir internet sitesi vardır.
 </details>
 
-Kulübümüze Katılmak için 
-[**Tıklayın**](https://link.brawlstars.com/invite/band/tr?tag=2YG9P9GQC&token=f4hg623xQ)
+Kulübümüze Katılmak için [**Tıklayın**](https://link.brawlstars.com/invite/band/tr?tag=2YG9P9GQC&token=f4hg623xQ)
