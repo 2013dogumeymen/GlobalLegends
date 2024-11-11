@@ -1,10 +1,9 @@
 <DOCTYPE md>
 
-  <div style="background-color: #000000; color: white; padding: 15px; text-align: center; font-size: 16px;">
-    Bu Site Supercell'in veya Supercell'e bağlı bir kuruluşun sitesi değildir
-    <a href=https://supercell.com/en/" style="color: #ffd700; text-decoration: underline;">Daha fazla bilgi</a>.
+<div style="background-color: #004b87; color: white; padding: 15px; text-align: center; font-size: 14px;">
+    Bu site Supercell ile bağlantılı değildir. Daha fazla bilgi için 
+    <a href="https://supercell.com" style="color: #ffd700; text-decoration: underline;">tıklayın</a>.
 </div>
-
 
 <div align=center>
 <h1>Global Legends</h1>
